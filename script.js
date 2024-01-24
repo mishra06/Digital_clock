@@ -2,6 +2,7 @@ const cont = document.querySelector(".container");
 
 const div = document.createElement("div");
 div.classList.add("div_css")
+
 const h = document.createElement("h1");
 
 function createParagraph(hr) {
